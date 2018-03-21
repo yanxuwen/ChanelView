@@ -5,7 +5,6 @@
 | :--------------------------------------: | :--------------------------------------: |
 | ![Chanel App Gif](https://github.com/yanxuwen/ChanelView/blob/master/ChanelGIF.gif) | ![ Chanel View ](https://github.com/yanxuwen/ChanelView/blob/master/MyChanel.gif) |
 
-有兴趣的可以自己去下载一下 Chanel 的 App 来把玩一下，里面有一些效果还是不错的；不过这个App 启动的时候很慢不知道是不是网络的问题。最开始我看到这个效果是一脸问号。效果是从这个 App 里面反编译出来的代码找出来的。
 
 ## 实现原理介绍
 采用的是 竖行的ViewPage 来实现的，相信大家都知道怎么弄，然后就是在ViewPage的transformPage方法里面,里面要怎么样的效果都可以自行修改。
@@ -43,4 +42,4 @@
         });
 ~~~
 ### APK 地址：https://www.pgyer.com/xsIo
-### 喜欢就在github star下,非常感谢o(∩_∩)o~~~
+### 喜欢就在 star下,非常感谢o(∩_∩)o~~~
